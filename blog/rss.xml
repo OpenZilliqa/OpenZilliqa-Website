@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>OpenZilliqa Blog</title>
+        <link>https://OpenZilliqa.github.io/blog</link>
+        <description>OpenZilliqa Blog</description>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Implementing Token in other contracts]]></title>
+            <link>https://OpenZilliqa.github.io/blog/implementing-token-in-other-contracts</link>
+            <guid>implementing-token-in-other-contracts</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[In Progress...]]></description>
+        </item>
+    </channel>
+</rss>

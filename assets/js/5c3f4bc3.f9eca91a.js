@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{83:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Implementing Token in other contracts","permalink":"/blog/implementing-token-in-other-contracts"}]}')}}]);
